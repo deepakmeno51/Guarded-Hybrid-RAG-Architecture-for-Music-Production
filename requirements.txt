@@ -1,0 +1,14 @@
+ragas==0.2.10
+langchain==0.3.7
+langchain-community==0.3.7
+langchain-openai==0.2.9
+datasets
+groq
+pydantic>=2.0
+presidio-analyzer
+presidio-anonymizer
+python-dotenv
+llama-index-core
+llama-index-embeddings-openai
+llama-index-vector-stores-chroma
+chromadb
